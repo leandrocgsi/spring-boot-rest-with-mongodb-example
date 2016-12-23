@@ -1,1 +1,1 @@
-# spring-boot-mongodb-example
+# Spring Boot MongoDB - Example Project
