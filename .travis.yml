@@ -1,7 +1,10 @@
 language: java
 sudo: required
-jdk:
-  - oraclejdk8
 services: mongodb  
+install: true
+script: mvn clean package -DskipTests=true
+sudo: required
+jdk:
+  - oraclejdk9
 notifications:
   email: false
