@@ -1,7 +1,7 @@
 # Spring Boot REST with MongoDB - Example Project
 
 [![Build Status](https://travis-ci.org/leandrocgsi/spring-boot-rest-with-mongodb-example.svg?branch=master)](https://travis-ci.org/leandrocgsi/spring-boot-rest-with-mongodb-example)
-[![Build Status](https://circleci.com/gh/leandrocgsi/spring-boot-mongodb-example.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/spring-boot-mongodb-example/)
+[![Build Status](https://circleci.com/gh/leandrocgsi/spring-boot-rest-with-mongodb-example.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/spring-boot-rest-with-mongodb-example)
 
 # HATEOAS Level 3 in [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 
