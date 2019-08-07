@@ -1,4 +1,4 @@
-# Spring Boot REST with MongoDB - Example Project
+# Spring boot REST with MongoDB - Example Project
 
 [![Build Status](https://travis-ci.org/leandrocgsi/spring-boot-rest-with-mongodb-example.svg?branch=master)](https://travis-ci.org/leandrocgsi/spring-boot-rest-with-mongodb-example)
 [![Build Status](https://circleci.com/gh/leandrocgsi/spring-boot-rest-with-mongodb-example.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/spring-boot-rest-with-mongodb-example)
